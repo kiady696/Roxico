@@ -1,0 +1,14 @@
+.person {
+    border: 10px solid transparent;
+    margin-bottom: 25px;
+    width: 225px;
+    height: 225px;
+    transition: .5s ease;
+}
+
+.person:hover {
+    width: 250px;
+    height: 250px;
+    border-color: #f1f1f1;
+    transition: .5s ease;
+}
