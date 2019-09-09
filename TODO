@@ -2,7 +2,15 @@
 Todo:
   ☐ Rendre le site fonctionnel
     ☐ Base de donnees
+      ☐ Tables 
+        ☐ User(Email,pwd,pseudo,argent)
+
+      ☐ Donnees miankina tam fonctionnalites
+
+    ☐ Mihaona mitsy loa x) 
+
     ☐ SELECT de la BDD
     ☐ affichage d'un elmt (bola tsisy boucle sy pagination)
     ☐ atao en boucle sy asina pagination ny avany amn base
     ☐ asesy ny fonctionnalites 
+      ☐ mianatra codeIgniter
